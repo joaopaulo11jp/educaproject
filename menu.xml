@@ -1,0 +1,81 @@
+<menu>
+    <menuitem label='Alunos'>
+        <menu>
+            <menuitem label="Novo Aluno">
+                    <icon>app/images/male210.png</icon>
+                    <action>TesteQuickForm</action>
+            </menuitem>
+
+            <menuitem label='Listar Alunos'>
+ <!--               <menu>
+                    <menuitem label='Welcome page'>
+                        <icon>app/images/ico_wellcome.png</icon>
+                        <action>WelcomeView</action>
+                    </menuitem>
+                </menu>-->
+                <icon>app/images/manager3.png</icon>
+                <action>TesteQuickForm</action>
+            </menuitem>     
+        </menu>
+    </menuitem>
+
+    <menuitem label='Turmas'>
+        <menu>
+            <menuitem label="Manutenção de Turmas">
+                    <icon></icon>
+                    <action>TesteQuickForm</action>
+            </menuitem>
+            <menuitem label="Relatórios">
+                <menu>
+                    <menuitem label="--">
+                        <icon></icon>
+                        <action>TesteQuickForm</action>
+                    </menuitem>
+                </menu>    
+            </menuitem>
+        </menu>
+    </menuitem>
+
+    <menuitem label='Professores'>
+        <menu>
+            <menuitem label="Manutenção de Professores">
+                    <icon></icon>
+                    <action>TesteQuickForm</action>
+            </menuitem>
+            <menuitem label="Relatórios">
+                <menu>
+                    <menuitem label="--">
+                        <icon></icon>
+                        <action>TesteQuickForm</action>
+                    </menuitem>
+                </menu>    
+            </menuitem>
+        </menu>
+    </menuitem>
+
+    <menuitem label='Disciplinas'>
+        <menu>
+            <menuitem label="Manutenção de Disciplinas">
+                    <icon></icon>
+                    <action>TesteQuickForm</action>
+            </menuitem>
+            <menuitem label="Relatórios">
+                <menu>
+                    <menuitem label="--">
+                        <icon></icon>
+                        <action>TesteQuickForm</action>
+                    </menuitem>
+                </menu>    
+            </menuitem>
+        </menu>
+    </menuitem>
+
+    <menuitem label='Gerenciamento'>
+        <menu>
+            <menuitem label="Painel de Controle">
+                    <icon></icon>
+                    <action>TesteQuickForm</action>
+            </menuitem>
+        </menu>
+    </menuitem>
+</menu>
