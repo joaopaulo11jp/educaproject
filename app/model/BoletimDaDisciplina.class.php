@@ -3,7 +3,7 @@ class BoletimDaDisciplina extends TRecord{
 	const TABLENAME = 'BoletimDaDisciplina';
 	const PRIMARYKEY = 'id';
 	const IDPOLICY = 'max';	
-	//teste commit
+	//teste commit2
 	$bimestre1;
 	$bimestre2;
 	$bimestre3;
